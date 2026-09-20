@@ -1,6 +1,6 @@
 # 🚀 Flight Trajectory Simulator
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/irahimov646/Flight_trajectory_simulator/blob/main/Flight_Trajectory_Simulator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/irahimov646/Flight_trajectory_simulator/blob/main/flight_Trajectory_Simulator.ipynb)
 
 Математическое моделирование и симуляция 3D-траектории полета воздушного судна с учетом аэродинамических сил, параметров атмосферы и численных методов интегрирования.
 
